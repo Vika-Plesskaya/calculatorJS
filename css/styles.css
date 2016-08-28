@@ -1,0 +1,8 @@
+.calculator {
+    float: none;
+    margin: 10% auto;
+}
+
+#memory-input {
+    height: 20px;
+}
